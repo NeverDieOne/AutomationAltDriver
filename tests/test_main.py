@@ -1,4 +1,4 @@
-from alttester import AltDriver, AltKeyCode, AltObject, By
+from alttester import AltDriver, AltKeyCode, By
 
 
 def test_player_can_move(alt_driver: AltDriver, load_scene):
